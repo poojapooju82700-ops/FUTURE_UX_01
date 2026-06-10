@@ -1,0 +1,12 @@
+Target Users:
+          Local patients like families and working professionals looking for dental care.
+
+Layout:
+          Simple 3-page structure – Home, Services, Contact – for easy navigation.
+
+UX:
+          Clean design with clear headings, trust elements, and easy navigation.
+
+Conversion:
+           Strong CTA buttons, lead forms, and WhatsApp/contact 
+                  options to increase bookings.
